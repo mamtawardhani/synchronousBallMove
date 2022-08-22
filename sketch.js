@@ -32,13 +32,4 @@ function draw(){
   
 }
 
-function writePosition(x,y){
- 
-}
 
-function readPosition(data){
- 
-}
-
-function showError(){
-}
